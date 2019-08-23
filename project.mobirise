@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Mish! Creative",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -489,12 +489,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/4-2000x2000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/4-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bottomline-podcastcover-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/bottomline-podcastcover-2000x2000-800x800.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Label Design for Supplement Co. San Francisco, CA",
+                "caption": "Logo &amp; Podcast Cover for The Bottom Line",
                 "active": false
               },
               {
