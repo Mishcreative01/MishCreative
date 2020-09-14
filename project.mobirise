@@ -459,7 +459,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Branding for Meal Prep Company",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
@@ -641,20 +641,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Mastering Motherhood Podcast Cover",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/logo2-1-1000x750.png",
-                "thumb": "@PROJECT_PATH@/assets/images/logo2-1-1000x750-750x750.png",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Logo for a Cafe",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -706,6 +693,19 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Digital Illustration",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/4-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-2000x2000-800x800.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "pharmanaut restore packaging label",
                 "active": false
               }
             ]
